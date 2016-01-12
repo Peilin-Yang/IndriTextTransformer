@@ -1,0 +1,8 @@
+<parameters>
+	<memory>1m</memory>
+	<index>index</index>
+	<corpus>
+		<path>sample_input</path>
+		<class>trectext</class>
+	</corpus>
+</parameters>
